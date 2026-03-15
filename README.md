@@ -17,9 +17,8 @@ The columns, their respective data types and their descriptions in brackets are 
 
 ## How to run the app
 1. Make sure Python 3 is installed.
-2. Open Terminal and go to the project folder "startup-networking-tracker.
-3. Run:
-python3 networking_tracker.py
+2. Open Terminal and go to the project folder "startup-networking-tracker", present on my Desktop.
+3. Run: python3 networking_tracker.py; this will allow me to see the menu and the video explains the steps from there on.
 
 ## Brief description of each CRUD operation and how a user performs it
 
