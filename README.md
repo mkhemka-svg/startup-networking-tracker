@@ -1,6 +1,6 @@
 # Startup Networking Tracker
 
-# What this app tracks & why I chose it
+## What this app tracks & why I chose it
 This app tracks my professional and startup-related networking contacts. I chose this topic because it is personally useful for keeping track of who I met, what organization they are from, when I contacted them and whether I need to follow up with them.
 
 # My database schema
