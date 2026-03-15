@@ -6,7 +6,7 @@ This app tracks my professional and startup-related networking contacts. I chose
 ## My database schema
 This app uses one SQLite table called `contacts`.
 
-The columns and their respective data types are as follows:
+The columns, their respective data types and their descriptions in brackets are as follows:
 1. id: INTEGER (Primary key, auto-incrementing unique id)
 2. name: TEXT (Name of the contact)
 3. organisation: TEXT (Company, startup, or institution)
