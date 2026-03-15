@@ -1,0 +1,24 @@
+﻿AI Tools/Models Used: ChatGPT
+Development process (including key prompts):
+Step 1: Choose What to Track (15 minutes)
+Topic: Startup Networking Tracker
+Columns I am thinking of implementing: id, name, organization, category, date_contacted, follow_up_status, notes
+Step 2: Design Your Database Schema (15 minutes)
+“I want to create a SQLite database to track startup networking contacts. Here are the columns I'm thinking of: id, name, organization, category, date_contacted, follow_up_status, notes. Can you help me write a CREATE TABLE statement and suggest any columns I might be missing?”
+Step 3: Set Up Your Project and Create the Database (20 minutes)
+“Show me how to create a SQLite database and table in Python using sqlite3.”
+“How can I verify that my SQLite table was created correctly in Python?”
+Step 4: Implement Create (INSERT) (20 minutes)
+“Show me how to write a Python function that asks the user for fields and inserts a new row into my SQLite table using parameterized queries.”
+Step 5: Implement Read (SELECT) (20 minutes)
+“How do I use SELECT in Python with sqlite3 to show all rows in my table?”
+“Show me how to filter results using SELECT * FROM contacts WHERE category = ?”
+Step 6: Implement Update (UPDATE) and Delete (DELETE) (30 minutes)
+“How can I update a SQLite record by id in Python using sqlite3?”
+“Show me how to write a function that retrieves a record by id, shows it to the user and then updates the fields.”
+“How do I delete a row from a SQLite table by id in Python and confirm with the user before deleting?”
+Step 7: Make the Interface (30 minutes)
+“How do I create a CLI menu loop in Python that repeatedly asks the user for input until they choose to quit?”
+“Show an example of a Python command-line menu that lets a user choose between Create, Read, Update, Delete, and Quit.”
+Step 8: Write Your README and Prompt Log (15 minutes)
+Step 9: Record Your Video, Push to GitHub, Submit (15 minutes)
